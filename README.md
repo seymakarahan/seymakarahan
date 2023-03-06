@@ -9,7 +9,6 @@
 <img  width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />
 www.linkedin.com/in/seymakarahan
   
-  
 <img  width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />s.karahan402@gmail.com
 
 
